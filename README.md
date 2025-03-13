@@ -1,6 +1,6 @@
 # 📝 To-Do List
 
-Um simples aplicativo de lista de tarefas feito em **React** para praticar conceitos fundamentais da biblioteca.
+Um simples aplicativo de lista de tarefas feito em **React** para praticar conceitos básicos da biblioteca.
 
 ## 🚀 Tecnologias Utilizadas
 - React.js ⚛️
